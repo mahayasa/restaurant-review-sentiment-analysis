@@ -6,6 +6,7 @@ An NLP project for sentiment analysis on restaurant review data using Multinomia
 
 This project aims to analyze sentiments in restaurant reviews using a Multinomial Naive Bayes classifier. The trained model achieves a precision of 0.89, recall of 0.88, and an F1-score of 0.88, indicating its effectiveness in sentiment classification.
 
+
 ## Features
 
 - Sentiment analysis on restaurant reviews
